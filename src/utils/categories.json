@@ -1,0 +1,28 @@
+[
+  {
+    "id": "icecekler",
+    "name": "İçecekler",
+    "subCategories": [
+      { "id": "sogukicecekler", "name": "Soğuk İçecekler" },
+      { "id": "sicakicecekler", "name": "Sıcak İçecekler" }
+    ]
+  },
+  {
+    "id": "yiyecekler",
+    "name": "Yiyecekler",
+    "subCategories": [
+      { "id": "tostlar", "name": "Tostlar" },
+      { "id": "salatalar", "name": "Salatalar" },
+      { "id": "sandvicler", "name": "Sandviçler" },
+      { "id": "corbalar", "name": "Çorbalar" },
+      { "id": "ekmekarasi", "name": "Ekmek Arası Ürünler" },
+      { "id": "makarnalar", "name": "Makarnalar" },
+      { "id": "tatlilar", "name": "Tatlılar" },
+      { "id": "atistirmaliklar", "name": "Atıştırmalıklar" }
+    ]
+  },
+  {
+    "id": "kisiselihtiyac",
+    "name": "Kişisel İhtiyaçlar"
+  }
+]

@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.food-pattern {
+  background-image: url('./assets/food-pattern.png');
+  background-size: 250px;
+  opacity: 0.5;
+  z-index: 1;
+}
